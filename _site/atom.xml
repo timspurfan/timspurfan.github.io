@@ -4,7 +4,7 @@
  <title>Lanyon</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-03-22T17:47:27-04:00</updated>
+ <updated>2019-03-22T17:50:08-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -23,12 +23,12 @@
 &lt;p&gt;Features I’m interested in:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;bullets
-&lt;strong&gt;bold&lt;/strong&gt;
-&lt;em&gt;italicized&lt;/em&gt;
-    &lt;h3 id=&quot;smaller-headers&quot;&gt;Smaller Headers&lt;/h3&gt;
-  &lt;/li&gt;
+  &lt;li&gt;bullets&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;
+&lt;em&gt;italicized&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;smaller-headers&quot;&gt;Smaller Headers&lt;/h3&gt;
 </content>
  </entry>
  
