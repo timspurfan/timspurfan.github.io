@@ -4,13 +4,28 @@
  <title>Lanyon</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-03-22T17:41:18-04:00</updated>
+ <updated>2019-03-22T17:43:53-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Test Blog Post</title>
+   <link href="http://localhost:4000/2018/03/22/test-blog-post/"/>
+   <updated>2018-03-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/03/22/test-blog-post</id>
+   <content type="html">&lt;h1 id=&quot;test-blog-post&quot;&gt;Test Blog Post&lt;/h1&gt;
+&lt;p&gt;Testing writing Markdown in Bear for the purposes of creating blog posts on theandysmith.com&lt;/p&gt;
+
+&lt;p&gt;Features I’m interested in:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* bullets **bold** _italicized_ ### Smaller Headers
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Lanyon</title>
