@@ -4,7 +4,7 @@
  <title>Lanyon</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-03-22T17:45:29-04:00</updated>
+ <updated>2019-03-22T17:46:20-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Introducing Lanyon</title>
+   <title>Test Blog Post</title>
    <link href="http://localhost:4000/2018/03/22/test-blog-post/"/>
    <updated>2018-03-22T00:00:00-04:00</updated>
    <id>http://localhost:4000/2018/03/22/test-blog-post</id>

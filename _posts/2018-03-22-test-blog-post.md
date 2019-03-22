@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Test Blog Post
 ---
 
 # Test Blog Post
