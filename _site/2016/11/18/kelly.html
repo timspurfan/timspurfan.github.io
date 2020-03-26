@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Kelly bettors</title>
-  <meta name="description" content="The Kelly Criterion">
+  <meta name="description" content="Accidentally cross-posted to the AI Alignment Forum.">
 
 
   <link rel="stylesheet" href="/stylesheets/styles.css">
@@ -15,7 +15,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   <link rel="canonical" href="http://localhost:4000/2016/11/18/kelly.html">
-  <link rel="alternate" type="application/rss+xml" title="Daniel Filan" href="http://localhost:4000/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://localhost:4000/feed.xml">
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       jax: ["input/TeX", "output/HTML-CSS"],
@@ -39,22 +39,28 @@
 
     <div class="wrapper">
   <header>
-  <h1><a href="/">Daniel Filan</a></h1>
-  <img src="/selfie.jpg"/>
-  <ul>
+  <h1><a href="/">Andrew Smith</a></h1>
+  <img src="/headshot_outside_just_head.jpg"/>
+  <!-- <ul>
+    <li><a href="/">about</a></li>
     <li><a href="/posts">blog</a></li>
-    <li><a href="mailto:df@danielfilan.com">email</a></li>
-    <li><a href="/daniel_filan_public_key.asc">PGP public key</li>
-    <li><a href="/pdfs/cv.pdf">CV</a></li>
-    <li><a href="https://github.com/dfilan">github</a></li>
-  </ul>
+    <li><a href="mailto:andrew.julien.smith@gmail.com">email</a></li>
+    <!-- <li><a href="/pdfs/cv.pdf">CV</a></li> --'REMOVE'>
+  </ul> -->
+  <a href="/">about</a> <br>
+  <a href="/posts">blog</a> <br>
+  <a href="mailto:andrew.julien.smith@gmail.com">email</a> <br>
+  <a href="https://www.facebook.com/andy.smith.9279807"  target="_blank" rel="noopener noreferrer">facebook</a>
+
 </header>
 
 
   <section>
     <h2>Kelly bettors</h2>
-    <p class="post-meta"><time datetime="2016-11-18T00:00:00-08:00" itemprop="datePublished">Nov 18, 2016</time></p>
-    <h3 id="the-kelly-criterion">The Kelly Criterion</h3>
+    <p class="post-meta"><time datetime="2016-11-18T00:00:00-05:00" itemprop="datePublished">Nov 18, 2016</time></p>
+    <p><em>Accidentally cross-posted to the <a href="https://www.alignmentforum.org/posts/iWXQgwpksstozSDeA/kelly-bettors">AI Alignment Forum</a>.</em></p>
+
+<h3 id="the-kelly-criterion">The Kelly Criterion</h3>
 
 <p>The Kelly criterion for betting tells you how much to wager when someone offers you a bet. First introduced in <a href="http://www.herrold.com/brokerage/kelly.pdf">this paper</a>, it deals with the situation where someone is offering you a contract that pays you €1 if the event <script type="math/tex">E</script> (for concreteness, you can imagine <script type="math/tex">E</script> as the event that the Republican candidate wins the 2020 US Presidential election) and €0 otherwise. They are selling it for €<script type="math/tex">q</script>, and your probability for <script type="math/tex">E</script> is <script type="math/tex">p > q</script> (this is equivalent to the more common formulation with odds, but it’s easier for me to think about). As a result, you think that it’s worth buying this contract. In fact, they will sell you a scaled-up contract of your choice: for any real number <script type="math/tex">r \geq 0</script>, you can buy a contract that pays you €<script type="math/tex">r/q</script> if <script type="math/tex">E</script> occurs for €<script type="math/tex">r</script>, just as if you could buy <script type="math/tex">r/q</script> copies of the original contract. The question you face is this: how much of your money should you spend on this scaled-up contract? The Kelly criterion gives you an answer: you should spend <script type="math/tex">(p-q)/(1-q)</script> of your money.</p>
 
@@ -161,7 +167,7 @@ Now, this is exactly what would have happened if the agent had been asked which 
 
 <script>
 if (window.location.hostname == "dfilan.github.io") {
-  window.location.hostname = "shlegeris.com";
+  window.location.hostname = "danielfilan.com";
 }
 </script>
 
