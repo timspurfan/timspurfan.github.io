@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title></title>
+    <description>Website of Daniel Filan.
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Topology</title>
+        
+        
+          <description>&lt;p&gt;I have a friend who is generally a fan of mathematical structures and the relationships between them. For Christmas, he asked me to make a diagram of certain sets of mathematical objects and the relationships between them. One instance of this would have been a &lt;a href=&quot;https://complexityzoo.uwaterloo.ca/File:Really-important-inclusions.png&quot;&gt;diagram&lt;/a&gt; of &lt;a href=&quot;https://complexityzoo.uwaterloo.ca/Complexity_Zoo&quot;&gt;complexity classes&lt;/a&gt;, with an arrow from class C to class D if every problem in class C was also in class D. Another instance would be a diagram of types of algebraic objects (&lt;a href=&quot;https://en.wikipedia.org/wiki/Monoid&quot;&gt;monoids&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Group_(mathematics)&quot;&gt;groups&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Ring_(mathematics)&quot;&gt;rings&lt;/a&gt;, etc.), with arrows indicating facts such that all groups are monoids. Instead, I chose to diagram types of &lt;a href=&quot;https://en.wikipedia.org/wiki/Topological_space&quot;&gt;topological spaces&lt;/a&gt; - plotting properties involving separation, compactness, connectivity, and metrisability, as well as which properties implied which other properties. I also wrote definitions that could theoretically be understood by anyone who understood set theory and equivalence relations, some theorems that hopefully provoke interest in these properties, and some example topological spaces to classify.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 04 Jan 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017/01/04/topology.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/04/topology.html</guid>
+      </item>
+    
+      <item>
+        <title>A discussion on the usefulness on 538's forecasts</title>
+        
+        
+          <description>&lt;p&gt;Recently, an &lt;a href=&quot;https://www.currentaffairs.org/2016/12/why-you-should-never-ever-listen-to-nate-silver&quot;&gt;article&lt;/a&gt; was published decrying the usefulness of 538’s forecasts of political events and Nate Silver’s opinions. I thought that this was largely misguided, and so got in an argument on Facebook about it. The argument is preserved for posterity, because I basically agree with what I said.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 30 Dec 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2016/12/30/on_538_vs_CA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/30/on_538_vs_CA.html</guid>
+      </item>
+    
+      <item>
+        <title>Kelly bettors</title>
+        
+        
+          <description>&lt;h3 id=&quot;the-kelly-criterion&quot;&gt;The Kelly Criterion&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Fri, 18 Nov 2016 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2016/11/18/kelly.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/18/kelly.html</guid>
+      </item>
+    
+  </channel>
+</rss>
+
