@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test Blog Post
+title: Test Draft Post
 tags: blog
 ---
 
-# Test Blog Post
+# Test DRAFT Post
 Testing writing Markdown in Bear for the purposes of creating blog posts on theandysmith.com
 
 Features I’m interested in:
