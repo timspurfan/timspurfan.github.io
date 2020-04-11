@@ -24,6 +24,7 @@ A running list of movies I want to watch:
 - The Hurt Locker
 - Slumdog Millionaire
 - Gangs of New York
+- The Hunt
 
 
 Movies to rewatch:
