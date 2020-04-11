@@ -6,6 +6,7 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Catch Me If You Can
 - Bladerunner 2049
 - Marriage Story
 - Knives Out
@@ -37,7 +38,21 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Frozen 2
+- The Two Popes
 - A Bronx Tale*
+- Call Me By Your Name*
+- Parasite
+- Moonlight
+- A Star is Born*
+- Rocketman
+- Her
+- The Lobster
+- Breakfast at Tiffany's
+- Whiplash
+- The Irishmen
 - No Country for Old Men
 - Hell or High Water
+- Dallas Buyers Club
 - American Hustle
+- 6 Underground
