@@ -25,6 +25,10 @@ A running list of movies I want to watch:
 - Slumdog Millionaire
 - Gangs of New York
 - The Hunt
+- Dolemite Is My Name
+- Sling Blade
+- Unorthodox (documentary)
+- Rain Man
 
 
 Movies to rewatch:
@@ -35,6 +39,8 @@ Movies to rewatch:
 - Letters From Iwo Jima
 - Midnight in Paris
 - Pulp Fiction
+- There Will Be Blood
+- Foxcatcher
 
 
 All the movies I've recently watched:
@@ -57,3 +63,5 @@ All the movies I've recently watched:
 - Dallas Buyers Club
 - American Hustle
 - 6 Underground
+- Green Book*
+- Eighth Grade
