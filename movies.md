@@ -16,7 +16,6 @@ A running list of movies I want to watch:
 - The Revenant
 - Boyhood
 - Lady Bird
-- Green Book
 - 1917
 - Django Unchained
 - Looper
@@ -45,6 +44,7 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Akira
 - Frozen 2
 - The Two Popes
 - A Bronx Tale*
