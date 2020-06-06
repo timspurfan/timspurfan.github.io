@@ -6,7 +6,9 @@ date:   ""
 
 A running list of movies I want to watch:
 
-- Catch Me If You Can
+- Spirited Away
+- Castle in the Sky
+- My Neighbor Totaro
 - Bladerunner 2049
 - Marriage Story
 - Knives Out
@@ -19,7 +21,6 @@ A running list of movies I want to watch:
 - 1917
 - Django Unchained
 - Looper
-- Black Swan
 - The Hurt Locker
 - Slumdog Millionaire
 - Gangs of New York
@@ -44,6 +45,8 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Black Swan
+- Catch Me if You Can
 - Akira
 - Frozen 2
 - The Two Popes
