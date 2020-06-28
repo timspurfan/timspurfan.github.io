@@ -21,8 +21,6 @@ A running list of movies I want to watch:
 - 1917
 - Django Unchained
 - Looper
-- The Hurt Locker
-- Slumdog Millionaire
 - Gangs of New York
 - The Hunt
 - Dolemite Is My Name
@@ -45,6 +43,10 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Eurovision Song Contest
+- Spotlight
+- The Hurt Locker
+- Slumdog Millonaire
 - Black Swan
 - Catch Me if You Can
 - Akira
