@@ -11,13 +11,11 @@ A running list of movies I want to watch:
 - My Neighbor Totaro
 - Bladerunner 2049
 - Marriage Story
-- Knives Out
 - Uncut Gems
 - Joker
 - Dunkirk
 - The Revenant
 - Boyhood
-- Lady Bird
 - 1917
 - Django Unchained
 - Looper
@@ -26,7 +24,6 @@ A running list of movies I want to watch:
 - Dolemite Is My Name
 - Sling Blade
 - Unorthodox (documentary)
-- Rain Man
 
 
 Movies to rewatch:
@@ -43,6 +40,13 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Rain Man
+- Dazed and Confused
+- Boogie Nights
+- Drive
+- Lady Bird
+- The Grand Budapest Hotel
+- Knives Out
 - Eurovision Song Contest
 - Spotlight
 - The Hurt Locker
