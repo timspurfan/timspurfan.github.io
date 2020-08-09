@@ -6,6 +6,8 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Prisoners
+- Nightcrawlers
 - Spirited Away
 - Castle in the Sky
 - My Neighbor Totaro
@@ -40,6 +42,10 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- The King's Speech
+- The Fighter
+- Silver Linings Playbook
+- Argo
 - Rain Man
 - Dazed and Confused
 - Boogie Nights
