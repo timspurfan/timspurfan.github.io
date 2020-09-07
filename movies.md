@@ -6,14 +6,14 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Eternal Sunshine of the Spotless Mind
+- Your Name
 - Prisoners
-- Nightcrawlers
 - Spirited Away
 - Castle in the Sky
 - My Neighbor Totaro
 - Bladerunner 2049
 - Marriage Story
-- Uncut Gems
 - Joker
 - Dunkirk
 - The Revenant
@@ -42,6 +42,9 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Nightcrawler
+- Perks of Being a Wallflower
+- Uncut Gems
 - The King's Speech
 - The Fighter
 - Silver Linings Playbook
