@@ -42,6 +42,7 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- The Work*
 - Nightcrawler
 - Perks of Being a Wallflower
 - Uncut Gems
