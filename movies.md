@@ -6,14 +6,12 @@ date:   ""
 
 A running list of movies I want to watch:
 
-- Eternal Sunshine of the Spotless Mind
 - Your Name
 - Prisoners
 - Spirited Away
 - Castle in the Sky
 - My Neighbor Totaro
 - Bladerunner 2049
-- Marriage Story
 - Joker
 - Dunkirk
 - The Revenant
@@ -42,6 +40,14 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Soul
+- Marriage Story
+- The Trial of the Chicago 7
+- Eternal Sunshine of the Spotless Mind
+- Fargo
+- Yes, God, Yes
+- My Best Friend's Wedding
+- Gran Torino
 - The Work*
 - Nightcrawler
 - Perks of Being a Wallflower
