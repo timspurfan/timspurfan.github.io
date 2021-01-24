@@ -6,9 +6,30 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Manchester by the Sea
+- Fences
+- Phantom Thread
+- Ford v Ferrari
+- Brooklyn
+- Captain Phillips
+- Castaway
+- Lincoln
+- The Kids Are All Right
+- True Grit
+- Extremely Loud & Incredibly Close
+- The Intouchables
+- Pan's Labrynth
+- Bridge of Spies
+- Selma
+- Boyhood
+- Birdman or (The Unexpected Virtue of Ignorance)
+- 12 Years a Slave
+- The Descendants
+- Nebraska
+- Darkest Hour
+- 2001: A Space Odyssey
 - Your Name
 - Prisoners
-- Spirited Away
 - Castle in the Sky
 - My Neighbor Totaro
 - Bladerunner 2049
@@ -17,7 +38,6 @@ A running list of movies I want to watch:
 - The Revenant
 - Boyhood
 - 1917
-- Django Unchained
 - Looper
 - Gangs of New York
 - The Hunt
@@ -28,6 +48,9 @@ A running list of movies I want to watch:
 
 Movies to rewatch:
 
+- Spirited Away
+- Django Unchained
+- Silence Of the Lambs
 - American Beauty
 - A Beautiful Mind
 - Good Will Hunting
@@ -40,6 +63,12 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Fast Times at Ridgement High
+- Hacksaw Ridge
+- Three Billboards Outside Ebbing, Missouri
+- The Shape of Water
+- Private Life
+- The Truman Show
 - Soul
 - Marriage Story
 - The Trial of the Chicago 7
