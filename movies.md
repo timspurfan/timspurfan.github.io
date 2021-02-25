@@ -6,14 +6,12 @@ date:   ""
 
 A running list of movies I want to watch:
 
-- About Time
+- Wolfwalkers
 - The Pianist
 - Room
 - Hunt for the Wilderpeople
 - Undone (show)
 - Crip Camp
-- The Big Sick
-- Manchester by the Sea
 - Fences
 - Phantom Thread
 - Ford v Ferrari
@@ -55,6 +53,7 @@ A running list of movies I want to watch:
 
 Movies to rewatch:
 
+- Matrix
 - Spirited Away
 - Django Unchained
 - Silence Of the Lambs
@@ -70,6 +69,12 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- About Time
+- Logan
+- The Intouchables
+- The Platform
+- The Big Sick
+- Manchester by the Sea
 - Fast Times at Ridgement High
 - Hacksaw Ridge
 - Three Billboards Outside Ebbing, Missouri
