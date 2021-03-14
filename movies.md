@@ -6,6 +6,7 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- The Painter and the Thief
 - Wolfwalkers
 - The Pianist
 - Room
@@ -22,7 +23,6 @@ A running list of movies I want to watch:
 - The Kids Are All Right
 - True Grit
 - Extremely Loud & Incredibly Close
-- The Intouchables
 - Pan's Labrynth
 - Bridge of Spies
 - Selma
@@ -59,7 +59,6 @@ Movies to rewatch:
 - Silence Of the Lambs
 - American Beauty
 - A Beautiful Mind
-- Good Will Hunting
 - Letters From Iwo Jima
 - Midnight in Paris
 - Pulp Fiction
@@ -69,6 +68,8 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Game of Thrones (show)
+- The Intouchables
 - About Time
 - Logan
 - The Intouchables
