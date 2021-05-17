@@ -6,6 +6,12 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Derek DelGaudio’s In & Of Itself
+- Looper
+- Princess Mononoke
+- The Staircase
+- Don't Fuck With Cats
+- Lion
 - The Painter and the Thief
 - Wolfwalkers
 - The Pianist
