@@ -26,7 +26,6 @@ A running list of movies I want to watch:
 - Captain Phillips
 - Castaway
 - Lincoln
-- The Kids Are All Right
 - True Grit
 - Extremely Loud & Incredibly Close
 - Pan's Labrynth
@@ -74,6 +73,9 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- John Wick (1,2,)
+- The Kids Are All Right
+- Safety Not Guaranteed
 - Game of Thrones (show)
 - The Intouchables
 - About Time
