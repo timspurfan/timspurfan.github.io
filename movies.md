@@ -65,6 +65,7 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Gladiator
 - American Gangster
 - Django Unchained*
 - 12 Years a Slave*
