@@ -7,14 +7,12 @@ date:   ""
 A running list of movies I want to watch:
 
 - Derek DelGaudio’s In & Of Itself
-- Looper
 - Princess Mononoke
 - The Staircase
 - Don't Fuck With Cats
 - Lion
 - The Painter and the Thief
 - Wolfwalkers
-- The Pianist
 - Room
 - Hunt for the Wilderpeople
 - Undone (show)
@@ -32,13 +30,10 @@ A running list of movies I want to watch:
 - Bridge of Spies
 - Selma
 - Boyhood
-- Birdman or (The Unexpected Virtue of Ignorance)
-- 12 Years a Slave
 - The Descendants
 - Nebraska
 - Darkest Hour
 - 2001: A Space Odyssey
-- Your Name
 - Prisoners
 - Castle in the Sky
 - My Neighbor Totaro
@@ -48,7 +43,6 @@ A running list of movies I want to watch:
 - The Revenant
 - Boyhood
 - 1917
-- Looper
 - Gangs of New York
 - The Hunt
 - Dolemite Is My Name
@@ -58,9 +52,7 @@ A running list of movies I want to watch:
 
 Movies to rewatch:
 
-- Matrix
 - Spirited Away
-- Django Unchained
 - Silence Of the Lambs
 - American Beauty
 - A Beautiful Mind
@@ -83,10 +75,13 @@ All the movies I've recently watched:
 - Rush
 - Matrix (1,2,)
 - Nomadland
+- Your Name
 - Mystic River
 - The Notebook
 - Bo Burnham: Inside
 - John Wick (1,2,3)
+- Looper
+- Birdman or (The Unexpected Virtue of Ignorance)
 - The Kids Are All Right
 - Safety Not Guaranteed
 - Game of Thrones (show)
