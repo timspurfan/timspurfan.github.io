@@ -73,7 +73,20 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
-- John Wick (1,2,)
+- American Gangster
+- Django Unchained*
+- 12 Years a Slave*
+- The Pianist
+- That Awkward Moment
+- Chef
+- Good Time
+- Rush
+- Matrix (1,2,)
+- Nomadland
+- Mystic River
+- The Notebook
+- Bo Burnham: Inside
+- John Wick (1,2,3)
 - The Kids Are All Right
 - Safety Not Guaranteed
 - Game of Thrones (show)
