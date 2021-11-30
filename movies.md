@@ -6,6 +6,13 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Swingers
+- Chicago
+- Crash
+- Seabiscuit
+- Frost/Nixon
+- Crouching Tiger, Hidden Dragon
+- Shakespeare in Love
 - Derek DelGaudio’s In & Of Itself
 - Princess Mononoke
 - The Staircase
@@ -53,6 +60,7 @@ A running list of movies I want to watch:
 Movies to rewatch:
 
 - Spirited Away
+- The Green Mile
 - Silence Of the Lambs
 - American Beauty
 - A Beautiful Mind
