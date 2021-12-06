@@ -84,6 +84,7 @@ All the movies I've recently watched:
 - Rush
 - Matrix (1,2,)
 - Nomadland
+- What's Eating Gilbert Grape
 - Your Name
 - Mystic River
 - The Notebook
