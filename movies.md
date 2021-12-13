@@ -6,6 +6,8 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Luca
+- Jiro Dreams of Sushi (doc)
 - Swingers
 - Chicago
 - Crash
