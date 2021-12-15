@@ -23,9 +23,7 @@ A running list of movies I want to watch:
 - The Painter and the Thief
 - Wolfwalkers
 - Room
-- Hunt for the Wilderpeople
 - Undone (show)
-- Crip Camp
 - Fences
 - Phantom Thread
 - Ford v Ferrari
@@ -75,6 +73,8 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Crip Camp (documentary)
+- Hunt for the Wilderpeople
 - Gladiator
 - American Gangster
 - Django Unchained*
