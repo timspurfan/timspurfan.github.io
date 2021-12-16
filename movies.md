@@ -73,6 +73,9 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Se7en
+- American Pie (1,2,Wedding,Reunion)
+- Chicago
 - Crip Camp (documentary)
 - Hunt for the Wilderpeople
 - Gladiator
@@ -84,7 +87,7 @@ All the movies I've recently watched:
 - Chef
 - Good Time
 - Rush
-- Matrix (1,2,)
+- Matrix (1,2,3)
 - Nomadland
 - What's Eating Gilbert Grape
 - Your Name
