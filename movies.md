@@ -6,6 +6,7 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Fundamentals of Caring
 - Luca
 - Jiro Dreams of Sushi (doc)
 - Swingers
@@ -73,6 +74,7 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Sound of Metal
 - Se7en
 - American Pie (1,2,Wedding,Reunion)
 - Chicago
