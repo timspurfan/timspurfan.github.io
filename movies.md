@@ -165,3 +165,19 @@ All the movies I've recently watched:
 - 6 Underground
 - Green Book*
 - Eighth Grade
+
+
+(Extra) Shows I Want to Watch:
+- The Wire
+- Mad Men
+- The West Wing
+- Chernobyl
+- Loki
+- Watchmen
+- The Avatar
+- Breaking Bad
+- Attack on Titan
+- Ted Lasso
+- Freaks and Geeks
+- Succession
+- Billions
