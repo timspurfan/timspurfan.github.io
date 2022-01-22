@@ -6,6 +6,10 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Language Lessons
+- Don't Look Up
+- Tick, Tick Boom
+- Promising Young Woman
 - Fundamentals of Caring
 - Luca
 - Jiro Dreams of Sushi (doc)
@@ -74,6 +78,7 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Palm Springs
 - Sound of Metal
 - Se7en
 - American Pie (1,2,Wedding,Reunion)
@@ -101,7 +106,6 @@ All the movies I've recently watched:
 - Birdman or (The Unexpected Virtue of Ignorance)
 - The Kids Are All Right
 - Safety Not Guaranteed
-- Game of Thrones (show)
 - The Intouchables
 - About Time
 - Logan
@@ -168,7 +172,6 @@ All the movies I've recently watched:
 
 
 (Extra) Shows I Want to Watch:
-- The Wire
 - Mad Men
 - The West Wing
 - Chernobyl
@@ -181,3 +184,10 @@ All the movies I've recently watched:
 - Freaks and Geeks
 - Succession
 - Billions
+- The politician
+
+Shows I've recently watched:
+- The Wire (in progress)
+- This is Us
+- Game of Thrones
+- Friday Night Lights
