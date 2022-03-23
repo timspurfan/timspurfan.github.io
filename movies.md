@@ -6,21 +6,55 @@ date:   ""
 
 A running list of movies I want to watch:
 
-- Eternal Sunshine of the Spotless Mind
-- Your Name
+- Language Lessons
+- Don't Look Up
+- Tick, Tick Boom
+- Promising Young Woman
+- Fundamentals of Caring
+- Luca
+- Jiro Dreams of Sushi (doc)
+- Swingers
+- Chicago
+- Crash
+- Seabiscuit
+- Frost/Nixon
+- Crouching Tiger, Hidden Dragon
+- Shakespeare in Love
+- Derek DelGaudio’s In & Of Itself
+- Princess Mononoke
+- The Staircase
+- Don't Fuck With Cats
+- Lion
+- The Painter and the Thief
+- Wolfwalkers
+- Room
+- Undone (show)
+- Fences
+- Phantom Thread
+- Ford v Ferrari
+- Brooklyn
+- Captain Phillips
+- Castaway
+- Lincoln
+- True Grit
+- Extremely Loud & Incredibly Close
+- Pan's Labrynth
+- Bridge of Spies
+- Selma
+- Boyhood
+- The Descendants
+- Nebraska
+- Darkest Hour
+- 2001: A Space Odyssey
 - Prisoners
-- Spirited Away
 - Castle in the Sky
 - My Neighbor Totaro
 - Bladerunner 2049
-- Marriage Story
 - Joker
 - Dunkirk
 - The Revenant
 - Boyhood
 - 1917
-- Django Unchained
-- Looper
 - Gangs of New York
 - The Hunt
 - Dolemite Is My Name
@@ -30,9 +64,11 @@ A running list of movies I want to watch:
 
 Movies to rewatch:
 
+- Spirited Away
+- The Green Mile
+- Silence Of the Lambs
 - American Beauty
 - A Beautiful Mind
-- Good Will Hunting
 - Letters From Iwo Jima
 - Midnight in Paris
 - Pulp Fiction
@@ -42,6 +78,55 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Palm Springs
+- Sound of Metal
+- Se7en
+- American Pie (1,2,Wedding,Reunion)
+- Chicago
+- Crip Camp (documentary)
+- Hunt for the Wilderpeople
+- Gladiator
+- American Gangster
+- Django Unchained*
+- 12 Years a Slave*
+- The Pianist
+- That Awkward Moment
+- Chef
+- Good Time
+- Rush
+- Matrix (1,2,3)
+- Nomadland
+- What's Eating Gilbert Grape
+- Your Name
+- Mystic River
+- The Notebook
+- Bo Burnham: Inside
+- John Wick (1,2,3)
+- Looper
+- Birdman or (The Unexpected Virtue of Ignorance)
+- The Kids Are All Right
+- Safety Not Guaranteed
+- The Intouchables
+- About Time
+- Logan
+- The Intouchables
+- The Platform
+- The Big Sick
+- Manchester by the Sea
+- Fast Times at Ridgement High
+- Hacksaw Ridge
+- Three Billboards Outside Ebbing, Missouri
+- The Shape of Water
+- Private Life
+- The Truman Show
+- Soul
+- Marriage Story
+- The Trial of the Chicago 7
+- Eternal Sunshine of the Spotless Mind
+- Fargo
+- Yes, God, Yes
+- My Best Friend's Wedding
+- Gran Torino
 - The Work*
 - Nightcrawler
 - Perks of Being a Wallflower
@@ -84,3 +169,25 @@ All the movies I've recently watched:
 - 6 Underground
 - Green Book*
 - Eighth Grade
+
+
+(Extra) Shows I Want to Watch:
+- Mad Men
+- The West Wing
+- Chernobyl
+- Loki
+- Watchmen
+- The Avatar
+- Breaking Bad
+- Attack on Titan
+- Ted Lasso
+- Freaks and Geeks
+- Succession
+- Billions
+- The politician
+
+Shows I've recently watched:
+- The Wire (in progress)
+- This is Us
+- Game of Thrones
+- Friday Night Lights
