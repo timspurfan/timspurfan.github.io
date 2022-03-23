@@ -6,8 +6,6 @@ date:   ""
 
 A running list of movies I want to watch:
 
-- Language Lessons
-- Don't Look Up
 - Tick, Tick Boom
 - Promising Young Woman
 - Fundamentals of Caring
@@ -23,7 +21,6 @@ A running list of movies I want to watch:
 - Derek DelGaudio’s In & Of Itself
 - Princess Mononoke
 - The Staircase
-- Don't Fuck With Cats
 - Lion
 - The Painter and the Thief
 - Wolfwalkers
@@ -40,7 +37,6 @@ A running list of movies I want to watch:
 - Extremely Loud & Incredibly Close
 - Pan's Labrynth
 - Bridge of Spies
-- Selma
 - Boyhood
 - The Descendants
 - Nebraska
@@ -78,6 +74,10 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Don't Fuck With Cats
+- Language Lessons
+- Selma
+- Don't Look Up
 - Palm Springs
 - Sound of Metal
 - Se7en
@@ -179,7 +179,6 @@ All the movies I've recently watched:
 - Watchmen
 - The Avatar
 - Breaking Bad
-- Attack on Titan
 - Ted Lasso
 - Freaks and Geeks
 - Succession
@@ -187,6 +186,7 @@ All the movies I've recently watched:
 - The politician
 
 Shows I've recently watched:
+- Attack on Titan
 - The Wire (in progress)
 - This is Us
 - Game of Thrones
