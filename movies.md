@@ -6,10 +6,20 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Coda
+- The Power of the Dog
+- King Richard
+- Drive My Car
+- Licorice Pizza
+- Summer of Soul
+- Judas and the Black Messiah
+- The Father
+- Belfast
+- Flee
+- All the Pixar films I haven't seen
 - Tick, Tick Boom
 - Promising Young Woman
 - Fundamentals of Caring
-- Luca
 - Jiro Dreams of Sushi (doc)
 - Swingers
 - Chicago
@@ -172,6 +182,7 @@ All the movies I've recently watched:
 
 
 (Extra) Shows I Want to Watch:
+- 
 - Mad Men
 - The West Wing
 - Chernobyl
