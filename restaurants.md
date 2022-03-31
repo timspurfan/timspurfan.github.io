@@ -5,16 +5,12 @@ date:   ""
 ---
 
 Links to my google lists:
-- NYC Restuarants
-  - https://goo.gl/maps/xG3PGntdfDv5iia97
-- NYC Pizza
-  - https://goo.gl/maps/JYiKxTaMhpjGWT8n9
-- NYC Burger
-  - https://goo.gl/maps/gazwsuK1aKK16Lwh8
-- NYC Sushi
-  - https://goo.gl/maps/LQyC3qaTfR5mdD3a6
-- Hoboken Food
-  - https://goo.gl/maps/74vUF3YH2X2KeTZY6
+- [NYC Restuarants](https://goo.gl/maps/xG3PGntdfDv5iia97)
+- [NYC Pizza](https://goo.gl/maps/JYiKxTaMhpjGWT8n9)
+- [NYC Burger](https://goo.gl/maps/gazwsuK1aKK16Lwh8)
+- [NYC Sushi](https://goo.gl/maps/LQyC3qaTfR5mdD3a6)
+- [Hoboken Food](https://goo.gl/maps/74vUF3YH2X2KeTZY6)
+
 
 Restaurants I want to go to:
 - Mamoya (crispy rice)
