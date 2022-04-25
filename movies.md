@@ -84,6 +84,10 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Coda
+- The Father
+- The Power of the Dog
+- Margin Call
 - Don't Fuck With Cats
 - Language Lessons
 - Selma
@@ -182,7 +186,6 @@ All the movies I've recently watched:
 
 
 (Extra) Shows I Want to Watch:
-- 
 - Mad Men
 - The West Wing
 - Chernobyl
