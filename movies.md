@@ -6,14 +6,11 @@ date:   ""
 
 A running list of movies I want to watch:
 
-- Coda
-- The Power of the Dog
 - King Richard
 - Drive My Car
 - Licorice Pizza
 - Summer of Soul
 - Judas and the Black Messiah
-- The Father
 - Belfast
 - Flee
 - All the Pixar films I haven't seen
@@ -22,7 +19,6 @@ A running list of movies I want to watch:
 - Fundamentals of Caring
 - Jiro Dreams of Sushi (doc)
 - Swingers
-- Chicago
 - Crash
 - Seabiscuit
 - Frost/Nixon
@@ -52,7 +48,6 @@ A running list of movies I want to watch:
 - Nebraska
 - Darkest Hour
 - 2001: A Space Odyssey
-- Prisoners
 - Castle in the Sky
 - My Neighbor Totaro
 - Bladerunner 2049
@@ -84,6 +79,7 @@ Movies to rewatch:
 
 All the movies I've recently watched:
 
+- Prisoners
 - Coda
 - The Father
 - The Power of the Dog
