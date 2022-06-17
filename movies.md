@@ -6,6 +6,7 @@ date:   ""
 
 A running list of movies I want to watch:
 
+- Crazy Rich Asians
 - King Richard
 - Drive My Car
 - Licorice Pizza
