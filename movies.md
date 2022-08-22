@@ -4,8 +4,11 @@ title:  Movies
 date:   ""
 ---
 
+I've stopped updating this page as frequently and have instead moved to maintaining a list on IMDB [here](https://www.imdb.com/user/ur38375085/ratings)
+
 A running list of movies I want to watch:
 
+- The Last Duel
 - King Richard
 - Drive My Car
 - Licorice Pizza
@@ -109,6 +112,7 @@ All the movies I've recently watched:
 - What's Eating Gilbert Grape
 - Your Name
 - Mystic River
+- Million Dollar Baby
 - The Notebook
 - Bo Burnham: Inside
 - John Wick (1,2,3)
