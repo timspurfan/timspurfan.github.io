@@ -9,6 +9,7 @@ I've stopped updating this page as frequently and have instead moved to maintain
 A running list of movies I want to watch:
 
 - The Last Duel
+- Crazy Rich Asians
 - King Richard
 - Drive My Car
 - Licorice Pizza
