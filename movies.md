@@ -4,7 +4,7 @@ title:  Movies
 date:   ""
 ---
 
-I've stopped updating this page as frequently and have instead moved to maintaining a list on IMDB [here](https://www.imdb.com/user/ur38375085/ratings)
+I've stopped updating this page as frequently and have instead moved to maintaining a list on IMDB <a href="https://www.imdb.com/user/ur38375085/ratings" target="_blank" rel="noopener noreferrer">here</a>
 
 A running list of movies I want to watch:
 
