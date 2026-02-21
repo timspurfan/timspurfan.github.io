@@ -1,4 +1,17 @@
-# get rid of auto-generated emacs files
+# Editor backups
 *~
 
+# macOS
 .DS_Store
+
+# Jekyll build output/cache
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Python/Jupyter cache
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
