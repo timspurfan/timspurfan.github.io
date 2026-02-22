@@ -7,6 +7,7 @@
 # Jekyll build output/cache
 _site/
 .bundle/
+vendor/bundle/
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
