@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test
+permalink: /test-old/
 ---
 
 <p class="message">
